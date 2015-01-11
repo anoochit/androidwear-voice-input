@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android Wear Voice Input</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_notification">NotificationActivity</string>
+
+    <string name="label_reply">Reply</string>
+
+    <string name="reply_was">Reply was :</string>
+    
+    <string-array name="reply_choices">
+        <item>Yes</item>
+        <item>No</item>
+        <item>Maybe</item>
+    </string-array>
+    
+    
+</resources>
